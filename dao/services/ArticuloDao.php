@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Dao;
+namespace Dao\Services;
 
 use App\Models\Articulo;
 use Exception;

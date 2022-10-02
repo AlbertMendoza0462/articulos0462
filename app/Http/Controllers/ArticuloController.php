@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Dao\ArticuloDao;
+use Dao\Services\ArticuloDao;
 use App\Models\Articulo;
 use Illuminate\Http\Request;
 
